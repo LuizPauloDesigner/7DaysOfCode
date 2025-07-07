@@ -37,4 +37,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-Feito com dedicação por [Seu Nome](https://github.com/LuizPauloDesigner) 👋
+Feito com dedicação por [Luiz Paulo Teixeira Juvencio](https://github.com/LuizPauloDesigner) 👋
